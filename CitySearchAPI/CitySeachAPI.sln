@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CitySearchAPI", "CitySearchAPI.csproj", "{9EC57603-E930-48E8-9F16-F8C38FF7DA49}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "CitySearch", "..\CitySearch\CitySearch.esproj", "{6FA42F3E-2E9C-4125-AD08-76BB3DF59433}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EC57603-E930-48E8-9F16-F8C38FF7DA49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EC57603-E930-48E8-9F16-F8C38FF7DA49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EC57603-E930-48E8-9F16-F8C38FF7DA49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EC57603-E930-48E8-9F16-F8C38FF7DA49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FA42F3E-2E9C-4125-AD08-76BB3DF59433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FA42F3E-2E9C-4125-AD08-76BB3DF59433}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FA42F3E-2E9C-4125-AD08-76BB3DF59433}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6FA42F3E-2E9C-4125-AD08-76BB3DF59433}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FA42F3E-2E9C-4125-AD08-76BB3DF59433}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FA42F3E-2E9C-4125-AD08-76BB3DF59433}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58394565-1165-4F98-8564-92C4FF86CD09}
+	EndGlobalSection
+EndGlobal
